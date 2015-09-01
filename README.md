@@ -1,4 +1,4 @@
 .qbasic
 =======
 
-Trail programs for QBASIC
+Trial programs for QBASIC
